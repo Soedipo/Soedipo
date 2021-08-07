@@ -16,7 +16,6 @@
 - **[Kiseki Japanese Club Vice President (2018 - 2019)](https://www.instagram.com/kiseki_smansa/)** 
 
 <br/>
-<!-- <br/> -->
 
 ## 🌍 Language 
 <p align="left"> 
@@ -26,7 +25,6 @@
     <img style="margin:0.5rem" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
     <img style="margin:0.5rem" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
-<br/>
 <br/>
 
 ## 🎨 Hobby <br/>
@@ -52,7 +50,7 @@
     <a href = "https://www.instagram.com/soedipo_l/"><img style="margin:0.5rem" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "https://www.facebook.com/soediponegoro.lendou"><img style="margin:0.5rem" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
     
-<br/>
+<br/> <br/>
     
 <h1 align = center > ~Thanks for coming to my Github Page~ </br> Don't forget to follow my account (〃＾▽＾〃) </h1>
 
