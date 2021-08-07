@@ -29,11 +29,11 @@
 <br/>
 
 ## 🎨 Hobby <br/>
-- ### Volleyball <br/> <img width = 20% style="margin:0.5rem" src = "https://raw.githubusercontent.com/Soedipo/Soedipo/main/Spike.gif"></a>
+- ### Volleyball <br/> <img width = 20% style="margin:0.5rem" src = "https://raw.githubusercontent.com/Soedipo/Soedipo/main/Spike.gif">
 
-- ### Swim <br/> <img width = 20% style="margin:0.5rem" src = "https://raw.githubusercontent.com/Soedipo/Soedipo/main/Swim.gif"></a> 
+- ### Swim <br/> <img width = 20% style="margin:0.5rem" src = "https://raw.githubusercontent.com/Soedipo/Soedipo/main/Swim.gif">
 
-- ### Anime<br/> <img width = 20% style="margin:0.5rem" src = "https://raw.githubusercontent.com/Soedipo/Soedipo/main/Chika.gif"></a>
+- ### Anime<br/> <img width = 20% style="margin:0.5rem" src = "https://raw.githubusercontent.com/Soedipo/Soedipo/main/Chika.gif">
 
 <br/>
 <!-- <br/> -->
@@ -54,21 +54,3 @@
 <h1 align = center > ~Thanks for coming to my Github Page~ </br> Don't forget to follow my account (〃＾▽＾〃) </h1>
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/Soedipo/Soedipo/main/Niku-wayyy.gif" /></div>
-
-
-
-
-<!--
-**Soedipo/Soedipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
