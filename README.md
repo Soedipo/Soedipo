@@ -37,7 +37,6 @@
 - ### Anime<br/> <img width = 20% style="margin:0.5rem" src = "https://raw.githubusercontent.com/Soedipo/Soedipo/main/Chika.gif">
 
 <br/>
-<!-- <br/> -->
 
 ## 🎮 Games
 
@@ -52,7 +51,9 @@
 <p align="left"> 
     <a href = "https://www.instagram.com/soedipo_l/"><img style="margin:0.5rem" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "https://www.facebook.com/soediponegoro.lendou"><img style="margin:0.5rem" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-
+    
+<br/>
+    
 <h1 align = center > ~Thanks for coming to my Github Page~ </br> Don't forget to follow my account (〃＾▽＾〃) </h1>
 
 <div align = "center"><img src="https://raw.githubusercontent.com/Soedipo/Soedipo/main/Niku-wayyy.gif" /></div>
