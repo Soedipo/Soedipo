@@ -55,4 +55,4 @@
 
 <h1 align = center > ~Thanks for coming to my Github Page~ </br> Don't forget to follow my account (〃＾▽＾〃) </h1>
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/Soedipo/Soedipo/main/Niku-wayyy.gif" /></div>
+<div align = "center"><img src="https://raw.githubusercontent.com/Soedipo/Soedipo/main/Niku-wayyy.gif" /></div>
