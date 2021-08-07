@@ -1,4 +1,23 @@
 ### Hi there 👋
+![Niku train](https://raw.githubusercontent.com/Soedipo/Soedipo/main/Niku-train.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Soedipo/Soedipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
