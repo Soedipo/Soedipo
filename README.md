@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Niku train](https://raw.githubusercontent.com/Soedipo/Soedipo/main/Niku-train.gif)
+![Niku train](https://github.com/Soedipo/Soedipo/blob/main/Banner%20GitHub.jpg)
 
 
 
