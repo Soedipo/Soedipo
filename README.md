@@ -19,11 +19,12 @@
 <!-- <br/> -->
 
 ## 🌍 Language 
-<img width="5%" height="auto" style="margin:0.5rem" src="https://cdn.countryflags.com/thumbs/indonesia/flag-400.png"/> 
-<img width="5%" height="auto" style="margin:0.5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Japan_%28bordered%29.svg/640px-Flag_of_Japan_%28bordered%29.svg.png"/> 
-<img width="6.4%" height="auto" style="margin:0.5rem"  src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png"/> <br/>
-<img style="margin:0.5rem" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
-<img style="margin:0.5rem" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<p align="left"> 
+    <img width="5%" height="auto" style="margin:0.5rem" src="https://cdn.countryflags.com/thumbs/indonesia/flag-400.png"/> 
+    <img width="5%" height="auto" style="margin:0.5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Japan_%28bordered%29.svg/640px-Flag_of_Japan_%28bordered%29.svg.png"/> 
+    <img width="6.4%" height="auto" style="margin:0.5rem"  src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png"/> <br/>
+    <img style="margin:0.5rem" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+    <img style="margin:0.5rem" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 <br/>
 <br/>
@@ -48,8 +49,9 @@
 <br/>
 
 ## 🔗Connect with me:
-<a href = "https://www.instagram.com/soedipo_l/"><img style="margin:0.5rem" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/soediponegoro.lendou"><img style="margin:0.5rem" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<p align="left"> 
+    <a href = "https://www.instagram.com/soedipo_l/"><img style="margin:0.5rem" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://www.facebook.com/soediponegoro.lendou"><img style="margin:0.5rem" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 <h1 align = center > ~Thanks for coming to my Github Page~ </br> Don't forget to follow my account (〃＾▽＾〃) </h1>
 
