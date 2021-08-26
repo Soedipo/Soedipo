@@ -23,7 +23,6 @@
     <img width="5%" height="auto" style="margin:0.5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Japan_%28bordered%29.svg/640px-Flag_of_Japan_%28bordered%29.svg.png"/> 
     <img width="6.4%" height="auto" style="margin:0.5rem"  src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png"/> <br/>
     <img style="margin:0.5rem" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
-    <img style="margin:0.5rem" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 <br/>
 
